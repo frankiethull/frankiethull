@@ -1,4 +1,4 @@
-## Hi there 👋
+## howdy 👋
 
 <!--
 **frankiethull/frankiethull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my personal GitHub account! Most of my repos are in the realm of binding languages, extending libraries, bridging tools, making color schemes, or collecting data. I like to use this github to play with data visualizations, shaders, fluid dynamics, deep learning algorithms, LLMs; & get to extend my knowledge of packaging, S3/S4/S7, qmd/rmd design, & more in the process. Most importantly, love the idea of collaborating with others & open-source software. Please submit an issue or PR if interested in contributing to one of my experimental libraries.  
+
+Currently, hold the title of DS&A Director and lead a team working on ML in energy. Live in Colorado and most of my free time is spent with my two sons, wife, & dog. We like to hike, climb, swim, garden, spend time at our local library, & we love making music together. 
