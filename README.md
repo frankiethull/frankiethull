@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my personal github account! Most of my repos are in the realm of binding languages, extending libraries, bridging tools, making color schemes, or collecting data. I like to tinker with data visualizations, shaders, fluid dynamics, deep learning algorithms, LLMs; & get to extend my knowledge of packaging, S3/S4/S7, qmd/rmd design, & more in the process. Most importantly, love the idea of collaborating with others & open-source software. Please submit an issue or PR if interested in contributing to one of my experimental libraries.  
+Welcome to my personal github account! Most of my repos are in the realm of binding languages, extending libraries, bridging tools, making color schemes, or collecting data. I like to tinker with data visualizations, shaders, fluid dynamics, deep learning algorithms, & local LLMs. Love learning more about classes, quarto, and package dev in the process.    
+    
+Most importantly, love the idea of collaborating with others & open-source software. Please submit an issue or PR if interested in contributing to one of my experimental libraries.  
 
 libraries I'm *actively* working on: 
 - :corn: {maize} a binding of specialty kernels for SVMs to {parsnip}
