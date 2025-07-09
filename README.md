@@ -23,7 +23,7 @@ libraries I'm *actively* working on:
 - :corn: {maize} a binding of specialty kernels for SVMs to {parsnip}
 - :llama: {kuzco} an LLM image assistant for classification, sentiment, and detection  
 - :watch: {kantime} kolmogorov-arnold networks for time series in R via Nixtla & {modeltime}
-- :bar_chart: {ggpal2} an AI {pal} assistant for data visualization
+- :bar_chart: {ggpal2} an AI assistant for data visualization
 
   
 Currently, hold the title of DS&A Director and lead a team working on ML in energy. Live in Colorado and most of my free time is spent with loving wife, two beautiful boys, one energetic dog, & two grumpy cats. 
